@@ -154,7 +154,7 @@ public class TeacherController extends BaseController {
 	// Map<String, Object> map = new HashMap<String, Object>();
 	// String sql = "select stuId from zm_student_attendance;";
 	// java.util.List<Attendance> list = Attendance.attendance.find(sql);
-	//
+	//测试git
 	// for(Attendance obj : list) {
 	//
 	// System.out.println(obj);
