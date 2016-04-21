@@ -1,0 +1,4 @@
+jdbcUrl = jdbc:mysql://120.27.42.185:3306/score_manage?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+user = root
+password =1234
+devMode = true
